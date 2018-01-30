@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0b3bcb240012fc54dbf157cee8609da2
+timeCreated: 1517077616
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Impossible - 050
+  fontNames:
+  - Impossible - 050
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
